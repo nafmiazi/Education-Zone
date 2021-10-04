@@ -1,0 +1,70 @@
+.home-section{
+    margin: 0;
+}
+
+.blog-section{
+    background-color: #130F40;
+}
+
+.top-banner{
+    background: url('http://themehoster.com/tf/wp/omexo/wp-content/uploads/2021/04/banner-4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+.color-overlay{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(60deg, #050133 50%, #05013340 100%);
+    opacity: 0.8;
+    position: absolute;
+}
+.banner{
+    z-index : 1;
+    color: white;
+    padding-top: 200px;
+    width: 50%;
+}
+
+.title{
+    color: #FF630E;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.title:hover{
+    color: white;
+}
+
+.header{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.header:hover, .description:hover{
+    color: #FF630E;
+}
+
+.description{
+    line-height: 28px;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Rubik', sans-serif;
+}
+
+.btn-find-course{
+    background-color: #FF630E !important;
+}
+
+.btn-extra{
+    color: #FF630E;
+}
+
+.latest{
+    padding-top: 90px;
+}

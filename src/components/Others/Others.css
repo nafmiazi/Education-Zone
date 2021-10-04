@@ -1,0 +1,14 @@
+.offer-section{
+    background-color: #130F40;
+    padding: 150px 20px 0 20px;
+}
+
+.subscribe-section{
+    background-color: #130F40;
+    border-radius: 40px;
+}
+
+.img-border{
+    border: 2px solid #130F40;
+    border-right: 0;
+}

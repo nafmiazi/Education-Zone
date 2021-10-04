@@ -1,0 +1,30 @@
+[
+    {
+      "id": 0,
+      "name": "Adword Jon",
+      "img": "https://themehoster.com/tf/wp/omexo/wp-content/uploads/2021/03/instructor-1-1.jpg",
+      "subject": "Physics",
+      "designation": "Mentor"
+    },
+    {
+      "id": 1,
+      "name": "Mark Stella",
+      "img": "https://themehoster.com/tf/wp/omexo/wp-content/uploads/2021/03/instructor-3.jpg",
+      "subject": "Chemestry",
+      "designation": "Instructor"
+    },
+    {
+      "id": 2,
+      "name": "Jes Watson",
+      "img": "https://themehoster.com/tf/wp/omexo/wp-content/uploads/2021/03/instructor-4-1.jpg",
+      "subject": "Biology",
+      "designation": "Instructor"
+    },
+    {
+      "id": 3,
+      "name": "Eiden Smith",
+      "img": "https://themehoster.com/tf/wp/omexo/wp-content/uploads/2021/03/instructor-2-1.jpg",
+      "subject": "Higher Math",
+      "designation": "Mentor"
+    }
+  ]

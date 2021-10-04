@@ -1,0 +1,110 @@
+[
+    {
+      "id": 0,
+      "name": "Nursery",
+      "img": "https://images.unsplash.com/photo-1472162072942-cd5147eb3902?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=869&q=80",
+      "week": "Sat-Mon-Wed",
+      "duration": "2hr",
+      "time": "5pm - 7pm",
+      "salary": 1500
+    },
+    {
+      "id": 1,
+      "name": "Class One",
+      "img": "https://images.unsplash.com/photo-1540151812223-c30b3fab58e6?ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MjJ8NDk1ODg1MHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "week": "Sat-Mon-Wed",
+      "duration": "2hr",
+      "time": "5pm - 7pm",
+      "salary": 1500
+    },
+    {
+      "id": 2,
+      "name": "Class Two",
+      "img": "https://images.unsplash.com/photo-1565843248736-8c41e6db117b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGxlYXJuaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "week": "Sat-Mon-Wed",
+      "duration": "2hr",
+      "time": "3pm - 5pm",
+      "salary": 2000
+    },
+    {
+      "id": 3,
+      "name": "Class Three",
+      "img": "https://images.unsplash.com/photo-1560785496-3c9d27877182?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80",
+      "week": "Sat-Mon-Wed",
+      "duration": "2hr",
+      "time": "11am - 1pm",
+      "salary": 2000
+    },
+    {
+      "id": 4,
+      "name": "Class Four",
+      "img": "https://images.pexels.com/photos/5212324/pexels-photo-5212324.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "week": "Sat-Mon-Wed",
+      "duration": "2hr",
+      "time": "9am - 11am",
+      "salary": 2000
+    },
+    {
+      "id": 5,
+      "name": "Class Five",
+      "img": "https://images.pexels.com/photos/5852305/pexels-photo-5852305.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "week": "Sat-Mon-Wed",
+      "duration": "3hr",
+      "time": "7am - 9am",
+      "salary": 2500
+    },
+    {
+      "id": 6,
+      "name": "Class Six",
+      "img": "https://images.pexels.com/photos/1326947/pexels-photo-1326947.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "week": "Sun-Tue-Thurs",
+      "duration": "2hr",
+      "time": "5:30pm - 7:30pm",
+      "salary": 2500
+    },
+    {
+      "id": 7,
+      "name": "Class Seven",
+      "img": "https://images.pexels.com/photos/5212334/pexels-photo-5212334.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "week": "Sun-Tue-Thurs",
+      "duration": "2hr",
+      "time": "5pm - 7pm",
+      "salary": 2500
+    },
+    {
+      "id": 8,
+      "name": "Class Eight",
+      "img": "https://images.pexels.com/photos/4144177/pexels-photo-4144177.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "week": "Sun-Tue-Thurs-Fri",
+      "duration": "3hr",
+      "time": "2pm - 5pm",
+      "salary": 3500
+    },
+    {
+      "id": 9,
+      "name": "Class Nine",
+      "img": "https://images.unsplash.com/photo-1525571453712-090270b8354f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGxlYXJuaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "week": "Sun-Tue-Thurs",
+      "duration": "3hr",
+      "time": "10:30am - 1:30pm",
+      "salary": 4000
+    },
+    {
+      "id": 10,
+      "name": "Class Ten",
+      "img": "https://images.unsplash.com/photo-1513258496099-48168024aec0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8bGVhcm5pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "week": "Sun-Tue-Thurs-Fri",
+      "duration": "3hr",
+      "time": "10am - 1pm",
+      "salary": 4000
+    },
+    {
+      "id": 11,
+      "name": "Intermediate",
+      "img": "https://images.pexels.com/photos/6972/summer-office-student-work.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "week": "Sun-Tue-Thurs-Fri",
+      "duration": "3hr",
+      "time": "7am - 10am",
+      "salary": 5000
+    }
+  ]

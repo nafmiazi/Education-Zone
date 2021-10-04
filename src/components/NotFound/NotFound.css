@@ -1,0 +1,8 @@
+.not-found{
+    height: 100vh;
+    background-color: #130F40;
+}
+
+.not-found section h1{
+    font-size: 80px;
+}
