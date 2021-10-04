@@ -1,15 +1,18 @@
 # Education Zone
 
-## [Live Site Link](https://nafmiazi.github.io/Educational/)
-Please Click this or above link to visit my site: https://nafmiazi.github.io/Educational/
+## [Live Site Link](https://education-zone-naf.netlify.app/)
+Please Click this or above link to visit my site: https://education-zone-naf.netlify.app/
 
 ## About this site
 
-In this website, you can find:
+This website is developed for:
 
-* The Education related support to build a **Strong Educational thoughts** for you. 
-* Here you will got all type of educational **Support**.
-* Here we cover **Class 1-11**, to support you.
+* Educational purpose.
+* Here we serve all class of students, starting from **Nursery to Higher Secondary**
+* In the Home UI you can get idea about our website, about our **course planning**.
+* From Home page you can go to explore our overall course plan about which courser we are offering
+* You can visit in our about us page to know about us.
+* You can also visit our **Extra Section** page, where you can get update about our offer plan and latest things that we are gonna include.
 
 ## Technology Used
 
