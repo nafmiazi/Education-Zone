@@ -1,7 +1,7 @@
 # Education Zone
 
-## [Live Site Link](https://special-security-force-naf.netlify.app/)
-Please Click this or above link to visit my site: https://special-security-force-naf.netlify.app/
+## [Live Site Link](https://nafmiazi.github.io/Educational/)
+Please Click this or above link to visit my site: https://nafmiazi.github.io/Educational/
 
 ## About this site
 
