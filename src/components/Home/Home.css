@@ -35,15 +35,40 @@
     font-size: 20px;
     font-weight: 600;
     letter-spacing: 2px;
+    animation: text 5s 1;
 }
 
-.title:hover{
-    color: white;
+@keyframes text{
+    0%{
+        color: black;
+    }
+    30%{
+        letter-spacing: 10px;
+    }
+    85%{
+        letter-spacing: 0px;
+    }
 }
 
 .header{
     font-size: 60px;
     font-weight: 700;
+    animation: color 5s 1;
+}
+
+@keyframes color{
+    0%{
+        color: black;
+    }
+    40%{
+        color: blueviolet;
+    }
+    80%{
+        color: #FF630E;
+    }
+    100%{
+        color: white;
+    }
 }
 
 .header:hover, .description:hover{
@@ -67,4 +92,29 @@
 
 .latest{
     padding-top: 90px;
+    animation: text 3s infinite;
+}
+
+#discount{
+    animation: offer 7s infinite;
+}
+
+@keyframes offer{
+    0%{
+        color: rgb(43, 226, 162);
+        
+    }
+    40%{
+        color: #0a0666;
+    }
+    80%{
+        color: #9bcf20;
+    }
+    100%{
+        color: white;
+    }
+}
+
+.latest-section{
+    background: linear-gradient(60deg, #ff5450, #554955);
 }

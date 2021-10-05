@@ -8,7 +8,7 @@ const Instructor = (props) => {
 
     // Return each instructor
     return (
-        <div className="col-lg-3 gx-4 gy-2">
+        <div className="col-lg-3 g-3">
             <div className="card border-0 shadow p-2">
                 <div>
                     <img src={img} className="card-img-top" height="250px" alt="..." />

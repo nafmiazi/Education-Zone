@@ -1,7 +1,9 @@
-.nav{
+/* .nav{
     height: 70px;
+} */
+.navigation{
+    background: linear-gradient(60deg, #1C2E4C, #4B086D);
 }
-
 .nav-link{
     color: white;
     font-size: 20px;

@@ -9,8 +9,8 @@ const PopularCourse = (props) => {
 
     // Return Popular Courses
     return (
-        <div className="col-lg-3 gx-4 gy-2">
-            <div className="card border-0 shadow custom-card p-4">
+        <div className="col-md-6 col-lg-3 gx-lg-4 gy-lg-2">
+            <div className="card border-0 shadow custom-card p-lg-4">
                 <div>
                     <img src={img} className="card-img-top" height="200px" alt="..." />
                 </div>

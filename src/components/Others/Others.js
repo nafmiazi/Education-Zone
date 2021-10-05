@@ -51,7 +51,7 @@ const Others = () => {
                     <div className="col-lg-12">
                         <h5 className="custom-color fw-bold">INSTRUCTORS</h5>
                         <h1 className="mb-4 fw-bold">Our Expert Instructors</h1>
-                        <div className="row px-5">
+                        <div className="row px-3">
                             {
                                 instructors.map(instructor => <Instructor instructor={instructor} key={instructor.id}></Instructor>)
                             }
