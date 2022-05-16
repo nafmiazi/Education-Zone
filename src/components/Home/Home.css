@@ -7,7 +7,7 @@
 }
 
 .top-banner{
-    background: url('https://omexo.omexer.com/wp-content/uploads/2021/04/banner-4.jpg');
+    background: url('https://preview.colorlib.com/theme/fox/images/xbg_1.jpg.pagespeed.ic._C6ebyFa8h.webp');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -108,7 +108,7 @@
         color: #0a0666;
     }
     80%{
-        color: #9bcf20;
+        color: #cf2026;
     }
     100%{
         color: white;
@@ -116,5 +116,14 @@
 }
 
 .latest-section{
-    background: linear-gradient(60deg, #ff5450, #554955);
+    background: linear-gradient(60deg, #ff8a16, #ffef16);
+    border-radius: 70% 30% 75% 25% / 23% 72% 28% 77% ;
+}
+
+.latest-color{
+    color: black;
+}
+
+.latest-background-color{
+    background-color: black;
 }

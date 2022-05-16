@@ -53,14 +53,14 @@ const Home = () => {
                 </Link>
                 
                 <div className="row my-5 latest-section text-white p-5">
-                    <div className="col-lg-6 border-end">
+                    <div className="col-lg-6 border-2 border-dark border-end">
                         <h1 className="latest">Latest News</h1>
                     </div>
                     <div className="col-lg-6 text-start">
-                        <i className="fas fa-3x mb-2 custom-color fa-hand-holding-usd"></i>
+                        <i className="fas fa-3x mb-2 latest-color fa-hand-holding-usd"></i>
                         <h1 id="discount" className="fw-bold">We announce 50% Discount On All Of Our New and Upcoming Courses</h1>
                         <Link to="/others">
-                            <button className="btn btn-lg btn-find-course text-white btn-extra">Check This Out</button>
+                            <button className="btn btn-lg latest-background-color text-white">Check This Out</button>
                         </Link>
                     </div>
                 </div>
